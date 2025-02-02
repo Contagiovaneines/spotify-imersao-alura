@@ -1,4 +1,5 @@
 # Spotify Imersão - Alura
+![Spotify GIF](./src/assets/spotify.gif)
 
 ## Descrição
 
